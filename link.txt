@@ -1,0 +1,2 @@
+https://www.netacad.com/
+PCAP - Programming Essentials in Python
